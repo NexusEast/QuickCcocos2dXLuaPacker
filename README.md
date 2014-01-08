@@ -2,7 +2,7 @@ Quick-cocos2d-x
 Lua Script Packer for Quick-Cocos2d-x  
 Ver 0.1    
 QQ:1262576802   
-Copyright (C) 2013 Wenny Dimart wjweini@gmail.com
+Copyright (C) 2013 Wenny Dimart wjweini@gmail.com  
 This work is free. You can redistribute it and/or modify it under the terms of the Do What The Fuck You Want To Public License, Version 2, as published by Sam Hocevar:
 
         DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
